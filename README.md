@@ -9,4 +9,5 @@ a PCB with an accelerometer…
 The idea is, each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 
 <br/>
-<img width="540" height="828" alt="freefallZinee" src="https://github.com/user-attachments/assets/70720d1f-c0b2-4ba0-a2d9-2a9b234da967" />
+<img width="540" height="828" alt="freefallZinee" src="https://github.com/user-attachments/assets/9518886b-4c16-447d-8bfc-21834185fd5c" />
+
