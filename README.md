@@ -2,7 +2,7 @@
 a PCB with an accelerometer…
 
 <br/>
-<img width="1358" height="1212" alt="thisone" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
+<img width="679" height="606" alt="thisone" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
 
 <br/>
 
