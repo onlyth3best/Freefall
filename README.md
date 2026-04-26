@@ -2,11 +2,11 @@
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
 <br/> About the folders: /code has all the code, /prod has all the production files!
 
-<br/>
+<br/> image of PCB:
 <img width="679" height="606" alt="model of PCB" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
-<br/>
+<br/> schematics:
 <img width="645" height="470" alt="Schematicss" src="https://github.com/user-attachments/assets/ac56ad0b-9324-4079-b843-ac10dfd4243d" />
-<br/>
+<br/> pcb editor/wiring:
 <img width="382" height="587" alt="pcb editor" src="https://github.com/user-attachments/assets/ce6a40b1-c17d-486b-b622-f04ed40a0a62" />
 
 <br/>
