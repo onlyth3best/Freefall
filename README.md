@@ -13,7 +13,7 @@ a PCB with an accelerometer… (built with help from https://hermes.hackclub.com
 <br/>
 The idea is, each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
-<br/>
+<br/> The motivation for this project was mainly to work more on my PCB skills, as well as my ability to read through documentation of a component and get the addresses right. I think that adding the 'code' feature with the lights was also a fun thing I just wanted to add.
 <br/>
 <br/>
 <br/>
