@@ -25,6 +25,8 @@ Hopefully I actually find out how to code that… but as long as I can somehow f
 
 
 <br/>
+<br/>
+<br/>
 In terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 The firmware I've added is in progress as of now (26/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
 <br/>
