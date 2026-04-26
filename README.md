@@ -1,6 +1,6 @@
 # Freefall
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
-<br/> About the folders: /code has all the code, /prod has all the production files, /other has miscellaneous like schematic and editor files.
+<br/> About the folders: /code has all the code, /prod has all the production files!
 
 <br/>
 <img width="679" height="606" alt="model of PCB" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
