@@ -15,13 +15,23 @@ The idea is, each LED is linked to a specific direction. For example, left is th
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
 <br/>
 <br/>23/04/2026:
-<br/> _Each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
+<br/>
+_Each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 Hopefully I actually find out how to code that… but as long as I can somehow find the right hex address for the outputs, I should be okay. (I hope?) I have got some of the basic code down… the addresses are tweaked for the accelerometer and OLED screen._
 
 
 <br/>
 In terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 The firmware I've added is in progress as of now (26/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
+
+<br/>
+Wiring:
+LED1 = D0
+LED2 = D1
+LED3 = D2
+LED4 = D3
+Accelerometer & Screen = [various, see schematics]
+
 
 <br/>
 <img width="540" height="828" alt="freefallZinee" src="https://github.com/user-attachments/assets/9518886b-4c16-447d-8bfc-21834185fd5c" />
