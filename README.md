@@ -19,7 +19,6 @@ The idea is, each LED is linked to a specific direction. For example, left is th
 <br/>
 <br/>23/04/2026:
 <br/>
-<br/>
 _Each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 Hopefully I actually find out how to code that… but as long as I can somehow find the right hex address for the outputs, I should be okay. (I hope?) I have got some of the basic code down… the addresses are tweaked for the accelerometer and OLED screen._
 
