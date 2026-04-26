@@ -29,12 +29,12 @@ Hopefully I actually find out how to code that… but as long as I can somehow f
 In terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 The firmware I've added is in progress as of now (26/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
 <br/>
-Wiring:
-LED1 = D0
-LED2 = D1
-LED3 = D2
-LED4 = D3
-Accelerometer & Screen = [various, see schematics]
+<br/>Wiring:
+<br/>LED1 = D0
+<br/>LED2 = D1
+<br/>LED3 = D2
+<br/>LED4 = D3
+<br/>Accelerometer & Screen = [various, see schematics]
 
 <br/>
 <br/>Setup Guide (to be edited):
