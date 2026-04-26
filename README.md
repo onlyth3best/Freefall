@@ -14,7 +14,11 @@ a PCB with an accelerometer… (built with help from https://hermes.hackclub.com
 The idea is, each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
 <br/>
+<br/>
+<br/>
+<br/>
 <br/>23/04/2026:
+<br/>
 <br/>
 _Each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 Hopefully I actually find out how to code that… but as long as I can somehow find the right hex address for the outputs, I should be okay. (I hope?) I have got some of the basic code down… the addresses are tweaked for the accelerometer and OLED screen._
@@ -23,7 +27,6 @@ Hopefully I actually find out how to code that… but as long as I can somehow f
 <br/>
 In terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 The firmware I've added is in progress as of now (26/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
-
 <br/>
 Wiring:
 LED1 = D0
