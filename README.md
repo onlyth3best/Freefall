@@ -36,6 +36,12 @@ LED3 = D2
 LED4 = D3
 Accelerometer & Screen = [various, see schematics]
 
+<br/>
+<br/>Setup Guide (to be edited):
+<br/>  -Connect to the XIAO, using the Arduino IDE
+<br/>  -This link might help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
+<br/>  -The code should work… once I've finished polishing it (not completely done as of now…)
+
 
 <br/>
 <img width="540" height="828" alt="freefallZinee" src="https://github.com/user-attachments/assets/9518886b-4c16-447d-8bfc-21834185fd5c" />
