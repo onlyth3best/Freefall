@@ -55,7 +55,7 @@ PCB BOM:
 <br/>
 <br/>
 
-| Reference  | Qty | Value | links I found|
+| Reference  | Qty | Value | purchase links found|
 | ------------- | ------------- | ------------- | ------------- |
 | U2  | 1 | Seeed Studio XIAO RP2040 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
 | D1, D2, D3, D4  | 4 | LED / L08R5000Q1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
