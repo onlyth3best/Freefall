@@ -37,10 +37,20 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>Accelerometer & Screen = [various, see schematics]
 
 <br/>
-<br/>Setup Guide (to be edited):
-<br/>  -Connect to the XIAO, using the Arduino IDE
-<br/>  -This link might help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
-<br/>  -The code should work… once I've finished polishing it (not completely done as of now…)
+<br/>Assembly instructions, for now:
+<br/>~ Solder these things onto the PCB, according to the schematics:
+<br/>~ - XIAO_RP_2040
+<br/>~ - four LEDs
+<br/>~ - four resistors
+<br/>~ - OLED screen
+<br/>~ - Accelerometer
+<br/>~ After this, connect the board to the power, this link could help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
+
+<br/>also Flash instructions:
+<br/> - install ArduinoIDE, https://docs.arduino.cc/software/ide/
+<br/> - add the support for the RP2040 (Preferences > Additional Board Manager URLs > "https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json")
+<br/> - connect the XIAO RP_2040 via USB
+<br/> - upload the code from this repo in /firmware!
 
 
 <br/>
@@ -55,12 +65,12 @@ PCB BOM:
 <br/>
 <br/>
 
-| Reference  | Qty | Value | purchase links found|
-| ------------- | ------------- | ------------- | ------------- |
-| U2  | 1 | Seeed Studio XIAO RP2040 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
-| D1, D2, D3, D4  | 4 | LED / L08R5000Q1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
-| R1, R2, R3, R4  | 4 | resistor | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
-| DS1  | 1 | OLED screen / OLED_128x64_1.3_12C | [link](https://thepihut.com/products/1-3-oled-display-module-128x64?srsltid=AfmBOopDl8PFs2033S-2AllyyVgorweV5rvh_8Nz7fI1gCvMHYW_bYbc) |
-| U1  | 1 | Accelerometer / MMA8452QR1 | [link](https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g) |
+| Reference  | Qty | Value | approx price in USD | purchase links found|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| U2  | 1 | Seeed Studio XIAO RP2040 | $ 3.9 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv / microcontroller board |
+| D1, D2, D3, D4  | 4 | LED / L08R5000Q1 | $ 0.1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
+| R1, R2, R3, R4  | 4 | resistor | $ 0.01 | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
+| DS1  | 1 | OLED screen / OLED_128x64_1.3_12C | $ 7.2 | [link](https://thepihut.com/products/1-3-oled-display-module-128x64?srsltid=AfmBOopDl8PFs2033S-2AllyyVgorweV5rvh_8Nz7fI1gCvMHYW_bYbc) |
+| U1  | 1 | Accelerometer / MMA8452QR1 | $ 4.8 | [link](https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
