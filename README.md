@@ -72,6 +72,6 @@ PCB BOM:
 | D1, D2, D3, D4  | 4 | LED / L08R5000Q1 | $ 0.1 | [link](https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71) |
 | R1, R2, R3, R4  | 4 | resistor | $ 0.01 | [link](https://jlcpcb.com/parts/1st/Resistors_1) |
 | DS1  | 1 | OLED screen / OLED_128x64_1.3_12C | $ 7.2 | [link](https://thepihut.com/products/1-3-oled-display-module-128x64?srsltid=AfmBOopDl8PFs2033S-2AllyyVgorweV5rvh_8Nz7fI1gCvMHYW_bYbc) |
-| U1  | 1 | Accelerometer / MMA8452QR1 | $ 4.8 | [link](https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g) |
+| U1  | 1 | Accelerometer / MMA8452QR1 | $ 4.8 | [link](https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g) or [link](https://dratek.cz/arduino-platforma/830-iic-i2c-gyroskop-akcelerometr-modul-mpu-6050.html?gad_source=5&gad_campaignid=21656222776&gclid=EAIaIQobChMIpercyOe9lAMVa6WDBx3s1iCOEAQYASABEgKLdPD_BwE) |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
