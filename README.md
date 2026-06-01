@@ -2,33 +2,30 @@
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
 <br/> About the folders: /code has all the code, /prod has all the production files!
 <br/> 3d models are in pcb/3dmodels
-
-<br/> image of PCB:
-<img width="679" height="606" alt="model of PCB" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
-<br/> schematics:
-<img width="645" height="470" alt="Schematicss" src="https://github.com/user-attachments/assets/ac56ad0b-9324-4079-b843-ac10dfd4243d" />
-<br/> pcb editor/wiring:
-<img width="382" height="587" alt="pcb editor" src="https://github.com/user-attachments/assets/ce6a40b1-c17d-486b-b622-f04ed40a0a62" />
-
 <br/>
 <br/>
 The idea is, each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
 <br/> note: PCB models are in pcb/kicad! other 3D models that were used were not sourced by me :)
 <br/> The motivation for this project was mainly to work more on my PCB skills, as well as my ability to read through documentation of a component and get the addresses right. I think that adding the 'code' feature with the lights was also a fun thing I just wanted to add.
 <br/>
-<br/>
-<br/>
-<br/>23/04/2026:
-<br/>
-_Each LED is linked to a specific direction. For example, left is the first LED, up is the second LED and so on. By 'entering' a the directions into the PCB, you find the combination of directions that make up a certain code!
-Hopefully I actually find out how to code that… but as long as I can somehow find the right hex address for the outputs, I should be okay. (I hope?) I have got some of the basic code down… the addresses are tweaked for the accelerometer and OLED screen._
-
-
-<br/>
-<br/>
-<br/>
 In terms of code, I haven't fully done the firmware as I don't have the actual thing yet, but here's a guide for setting up the XIAO_RP2040 with Arduino: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 The firmware I've added is in progress as of now (26/04/26) and I will add setup steps in the future, when I have the physical PCB itself.
+<br/>
+<br/> image of PCB:
+<br/>
+<img width="679" height="606" alt="model of PCB" src="https://github.com/user-attachments/assets/010a3723-65d9-4cca-bf80-69128ab92438" />
+<br/> schematics:
+<br/>
+<img width="645" height="470" alt="Schematicss" src="https://github.com/user-attachments/assets/ac56ad0b-9324-4079-b843-ac10dfd4243d" />
+<br/> pcb editor/wiring:
+<br/>
+<img width="382" height="587" alt="pcb editor" src="https://github.com/user-attachments/assets/ce6a40b1-c17d-486b-b622-f04ed40a0a62" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>Wiring:
 <br/>LED1 = D0
