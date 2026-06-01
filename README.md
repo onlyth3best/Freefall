@@ -23,9 +23,6 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 # Setup:
 <br/> Wiring:
 <br/>LED1 = D0
