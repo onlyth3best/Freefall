@@ -27,7 +27,7 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>
 <br/>
 <br/>
-<br/>Wiring:
+# Wiring:
 <br/>LED1 = D0
 <br/>LED2 = D1
 <br/>LED3 = D2
@@ -35,7 +35,7 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>Accelerometer & Screen = [various, see schematics]
 
 <br/>
-<br/>Assembly instructions, for now:
+# Assembly instructions, for now:
 <br/>~ Solder these things onto the PCB, according to the schematics:
 <br/>~ - XIAO_RP_2040
 <br/>~ - four LEDs
