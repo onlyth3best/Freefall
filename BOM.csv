@@ -1,6 +1,0 @@
-Id,Designator,Footprint,Quantity,approx price in USD,Designation,links
-1,"D1, D2, D3, D4",LEDRD254W57D500H1070,4,$ 3.9,L08R5000Q1,https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71
-2,DS1,LCD_OLED_128X64_1.3_I2C,1,$ 0.1,OLED_128X64_1.3_I2C,https://thepihut.com/products/1-3-oled-display-module-128x64?srsltid=AfmBOopDl8PFs2033S-2AllyyVgorweV5rvh_8Nz7fI1gCvMHYW_bYbc
-3,"R1, R2, R3, R4",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,4,$ 0.01,R,https://jlcpcb.com/parts/1st/Resistors_1
-4,U1,PQFN50P300X300X100-16N,1,$ 7.2,MMA8452QR1,https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g
-5,U2,XIAO-RP2040-DIP,1,$ 4.8,XIAO-RP2040-DIP,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv
