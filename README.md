@@ -68,4 +68,12 @@ PCB BOM:
 | U1  | 1 | Accelerometer / MMA8452QR1 | $ 4.8 | [link](https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g) or [link](https://dratek.cz/arduino-platforma/830-iic-i2c-gyroskop-akcelerometr-modul-mpu-6050.html?gad_source=5&gad_campaignid=21656222776&gclid=EAIaIQobChMIpercyOe9lAMVa6WDBx3s1iCOEAQYASABEgKLdPD_BwE) |
 |   |  |  | total cost $12.5, with JLCPCB cost ~ 15.5 USD depending on where you live |  |
 
+| Designator         | Footprint         | Quantity | Approx. Price (USD) | Part / Designation | Link |
+|--------------------|-------------------|----------|---------------------|--------------------|------|
+| D1, D2, D3, D4     | LEDRD254W57L (LEDs)     | 4        | $3.90               | L08R5000Q1         | https://jlcpcb.com/parts/2nd/Optoelectronics/LED_Indication_Discrete_71 |
+| DS1                | LCD_OLED_128 (OLED screen)     | 1        | $0.10               | OLED_128X64        | https://thepihut.com/products/1-3-oled-display-module-128x64 |
+| R1, R2, R3, R4     | R_Axial_DIN020 (resistors)   | 4        | $0.01               | R                  | https://jlcpcb.com/parts/1st/Resistors_1 |
+| U1                 | PQFN50P300X3 (accelerometer)      | 1        | $7.20               | MMA8452QR1         | https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1 |
+| U2                 | XIAO-RP2040-D     | 1        | $4.80               | XIAO-RP2040-D      | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html |
+
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
