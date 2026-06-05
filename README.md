@@ -49,9 +49,8 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 
 
 <br/>
-<img width="540" height="828" alt="freefallZinee" src="https://github.com/user-attachments/assets/9518886b-4c16-447d-8bfc-21834185fd5c" />
-
-
+[freefall.pdf](https://github.com/user-attachments/files/28647639/freefall.pdf)
+<img width="540" height="828" alt="freefall" src="https://github.com/user-attachments/assets/82e6bbed-188a-483e-949b-12d4693d2068" />
 
 <br/>
 <br/>
