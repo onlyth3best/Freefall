@@ -20,8 +20,7 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <img width="645" height="470" alt="Schematicss" src="https://github.com/user-attachments/assets/ac56ad0b-9324-4079-b843-ac10dfd4243d" />
 <br/> pcb editor/wiring:
 <br/>
-<img width="353" height="602" alt="Snímek obrazovky 2026-06-05 v 18 36 40" src="https://github.com/user-attachments/assets/8c25a2c2-9d86-485c-8148-d7e267b7caa6" />
-<br/>
+<img width="390" height="641" alt="pcb" src="https://github.com/user-attachments/assets/111a43c1-ad11-4c0e-b12b-83bcec5047ff" />
 <br/>
 <br/>
 # Setup:
