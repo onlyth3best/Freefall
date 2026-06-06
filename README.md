@@ -73,6 +73,7 @@ PCB BOM:
 | R1, R2, R3, R4 | R_Axial_DIN020 (resistors) | 4 | $0.01               | R                  | https://jlcpcb.com/parts/1st/Resistors_1 |
 | U1                 | PQFN50P300X3 (accelerometer) | 1 | $7.20               | MMA8452QR1         | https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1 |
 | U2                 | XIAO-RP2040-D | 1        | $4.80 | XIAO-RP2040-D      | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html |
-| - | - | - | total ~ 16.01 | - | - |
+| C1, C2                 | Capacitor_THT:CP_Radial_D5.0mm_P2.00mm | 2        | $0.01 | C      | https://jlcpcb.com/partdetail/1876-0402B103K500NT/C1524 |
+| - | - | - | total ~ 16.03 | - | - |
 
 <br/> planning to source from JLCPCB (apologies if the BOM is wrong, I'm new to this)
