@@ -14,13 +14,15 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>
 <br/> image of PCB:
 <br/>
-<img width="398" height="512" alt="screenshot of 3dD" src="https://github.com/user-attachments/assets/be3b443d-66d2-4238-ab93-a60a3ebd50c0" />
+<img width="1234" height="1162" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/f813bf72-b552-4bdb-9952-e9329b06b0cf" />
+
+
 <br/> schematics:
 <br/>
-<img width="645" height="470" alt="Schematicss" src="https://github.com/user-attachments/assets/ac56ad0b-9324-4079-b843-ac10dfd4243d" />
+<img width="684" height="555" alt="schematics" src="https://github.com/user-attachments/assets/d86a6ae4-f793-466e-bfce-bce5f28587d1" />
 <br/> pcb editor/wiring:
 <br/>
-<img width="390" height="641" alt="pcb" src="https://github.com/user-attachments/assets/111a43c1-ad11-4c0e-b12b-83bcec5047ff" />
+<img width="432" height="681" alt="pcb" src="https://github.com/user-attachments/assets/d5e58dc0-3d66-41ab-9ae4-0ea0f2cbb45b" />
 <br/>
 <br/>
 # Setup:
@@ -30,6 +32,8 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>LED3 = D2
 <br/>LED4 = D3
 <br/>Accelerometer & Screen = [various, see schematics]
+<br/> Cap1 = C1
+<br/> Cap2 = C2
 
 <br/>
 # Assembly instructions, for now:
@@ -39,6 +43,7 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>~ - four resistors
 <br/>~ - OLED screen
 <br/>~ - Accelerometer
+<br/>~ - two capacitors
 <br/>~ After this, connect the board to the power, this link could help: https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/
 
 <br/>also Flash instructions:
@@ -50,7 +55,9 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 
 <br/>
 [freefall.pdf](https://github.com/user-attachments/files/28647639/freefall.pdf)
-<img width="540" height="828" alt="freefall" src="https://github.com/user-attachments/assets/82e6bbed-188a-483e-949b-12d4693d2068" />
+
+<img width="540" height="828" alt="FREEFALLTHISONE" src="https://github.com/user-attachments/assets/bbf9b30a-91eb-4a87-b19a-516f9a1ebe4a" />
+
 
 <br/>
 <br/>
