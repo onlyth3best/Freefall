@@ -4,4 +4,5 @@ Id,Designator,Footprint,Quantity,approx price in USD,Designation,links
 3,"R1, R2, R3, R4",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,4,$ 0.01,R,https://jlcpcb.com/parts/1st/Resistors_1
 4,U1,PQFN50P300X300X100-16N,1,$ 7.2,MMA8452QR1,https://www.mouser.co.uk/ProductDetail/STMicroelectronics/MMA8452QR1?qs=nf24X8JpkflP9lEXYucw7A%3D%3D&srsltid=AfmBOopwflme1FghpKhdfCMTg39rWwrrPKN7EFidPL_As-lnLXidkf6g
 5,U2,XIAO-RP2040-DIP,1,$ 4.8,XIAO-RP2040-DIP,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?srsltid=AfmBOor69gTiD1i0IEN-NgJbt-CYkVZTgTP96P1gkFrOACfPGnEJtVJv
+6,"C1, C2", Capacitor_THT:CP_Radial_D5.0mm_P2.00mm, 2, $0.01, C, https://jlcpcb.com/partdetail/1875-0402B102K500NT/C1523
 -,-,-,-,total ~ 16.01,-,-
