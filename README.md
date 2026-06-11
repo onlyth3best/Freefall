@@ -14,7 +14,9 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>
 <br/> image of PCB:
 <br/>
-<img width="521" height="677" alt="Snímek obrazovky 2026-06-11 v 15 50 58" src="https://github.com/user-attachments/assets/c190890a-0fea-4b8e-a026-d40fad4f758f" />
+
+<img width="521" height="677" alt="Snímek obrazovky 2026-06-11 v 15 50 58" src="https://github.com/user-attachments/assets/5ec16e23-c55f-4703-b705-174d6b31e635" />
+
 
 
 
