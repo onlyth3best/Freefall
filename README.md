@@ -1,4 +1,4 @@
-# Freefall
+<img width="1234" height="1162" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/67f58b49-6fe0-47ff-9465-5a62278bba0f" /># Freefall
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
 <br/> About the folders: /code has all the code, /prod has all the production files!
 <br/> 3d models are in pcb/3dmodels
@@ -14,15 +14,17 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/>
 <br/> image of PCB:
 <br/>
-<img width="1234" height="1162" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/f813bf72-b552-4bdb-9952-e9329b06b0cf" />
+<img width="521" height="677" alt="Snímek obrazovky 2026-06-11 v 15 50 58" src="https://github.com/user-attachments/assets/c190890a-0fea-4b8e-a026-d40fad4f758f" />
+
 
 
 <br/> schematics:
 <br/>
-<img width="684" height="555" alt="schematics" src="https://github.com/user-attachments/assets/d86a6ae4-f793-466e-bfce-bce5f28587d1" />
+<img width="500" height="386" alt="Snímek obrazovky 2026-06-11 v 15 49 22" src="https://github.com/user-attachments/assets/c190967b-16af-4cdf-a410-1c1ecb7790ec" />
 <br/> pcb editor/wiring:
 <br/>
-<img width="432" height="681" alt="pcb" src="https://github.com/user-attachments/assets/d5e58dc0-3d66-41ab-9ae4-0ea0f2cbb45b" />
+<img width="242" height="403" alt="Snímek obrazovky 2026-06-11 v 15 48 44" src="https://github.com/user-attachments/assets/6f116e74-b4ab-49a5-b52e-f7840d36a629" />
+
 <br/>
 <br/>
 # Setup:
