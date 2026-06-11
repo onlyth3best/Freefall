@@ -1,4 +1,4 @@
-<img width="1234" height="1162" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/67f58b49-6fe0-47ff-9465-5a62278bba0f" /># Freefall
+# Freefall
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
 <br/> About the folders: /code has all the code, /prod has all the production files!
 <br/> 3d models are in pcb/3dmodels
