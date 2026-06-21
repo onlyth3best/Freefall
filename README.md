@@ -1,3 +1,4 @@
+
 # Freefall
 a PCB with an accelerometer… (built with help from https://hermes.hackclub.com/!)
 <br/> About the folders: /code has all the code, /prod has all the production files!
@@ -15,7 +16,8 @@ The firmware I've added is in progress as of now (26/04/26) and I will add setup
 <br/> image of PCB:
 <br/>
 
-<img width="521" height="677" alt="Snímek obrazovky 2026-06-11 v 15 50 58" src="https://github.com/user-attachments/assets/5ec16e23-c55f-4703-b705-174d6b31e635" />
+<img width="1234" height="1162" alt="Untitled design (18)" src="https://github.com/user-attachments/assets/c847e79e-a01a-4ec5-8672-8c0391614b81" />
+
 
 ## setup:
 Connect to the XIAO, using the Arduino IDE
@@ -27,8 +29,7 @@ Connect to the XIAO, using the Arduino IDE
 <img width="500" height="386" alt="Snímek obrazovky 2026-06-11 v 15 49 22" src="https://github.com/user-attachments/assets/c190967b-16af-4cdf-a410-1c1ecb7790ec" />
 <br/> pcb editor/wiring:
 <br/>
-<img width="242" height="403" alt="Snímek obrazovky 2026-06-11 v 15 48 44" src="https://github.com/user-attachments/assets/6f116e74-b4ab-49a5-b52e-f7840d36a629" />
-
+<<img width="254" height="385" alt="Snímek obrazovky 2026-06-21 v 2 10 22" src="https://github.com/user-attachments/assets/aa8504f3-aead-4edf-88c3-2afb0ae4066c" />
 <br/>
 <br/>
 # Setup:
