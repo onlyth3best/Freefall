@@ -61,10 +61,10 @@ Connect to the XIAO, using the Arduino IDE
 
 
 <br/>
-[freefall.pdf](https://github.com/user-attachments/files/28647639/freefall.pdf)
+<img width="540" height="828" alt="freefallpngg" src="https://github.com/user-attachments/assets/38f5a9a0-6c63-48b5-8676-ba107bba74aa" />
 
-[FREEFALL_PDF.pdf](https://github.com/user-attachments/files/28841637/FREEFALL_PDF.pdf)
-<img width="540" height="828" alt="FREEFALL_PNG" src="https://github.com/user-attachments/assets/3d45c4ed-09b0-4909-83f3-446a1e6124b5" />
+[frefallzine.pdf](https://github.com/user-attachments/files/29169083/frefaline.pdf)
+
 
 
 
